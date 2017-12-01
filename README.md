@@ -4,7 +4,7 @@ Python scripts released to accompany the manuscript entitled "Ultraconserved ele
 
 Correspondence to the corresponding author: twu@genetics.med.harvard.edu. Department of Genetics, 77 Avenue Louis Pasteur, NRB 264, Boston, MA 02115, USA. Phone: (617) 432-4431. Fax (617) 432-7663.
 
-or the first author: rmccole@genetics.med.harvard.edu
+or the first authors: rmccole@genetics.med.harvard.edu, jerceg@genetics.med.harvard.edu
 
 Distributed under the following license:
 
